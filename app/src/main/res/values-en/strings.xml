@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TALLER01</string>
+    <string name="edad">AGE</string>
+    <string name="limpiar">CLEAN</string>
+    <string name="mostrar">SEND</string>
+    <string name="primerApellido">SURNAME</string>
+    <string name="primerNombre">FIRST NAME</string>
+    <string name="registroPersonas">REGISTER OF PERSONS</string>
+    <string name="segundoApellido">SECOND SURNAME</string>
+    <string name="segundoNombre">SECOND NAME</string>
+    <string name="sexo">SEX</string>
+</resources>
