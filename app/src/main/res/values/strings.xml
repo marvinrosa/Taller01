@@ -9,4 +9,6 @@
     <string name="sexo">SEXO</string>
     <string name="mostrar">MOSTRAR</string>
     <string name="limpiar">LIMPIAR</string>
+    <string name="hola">Hola</string>
+    <string name="tu">Tu</string>
 </resources>

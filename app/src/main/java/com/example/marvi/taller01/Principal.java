@@ -48,6 +48,10 @@ public class Principal extends AppCompatActivity {
         i.putExtras(b);
         startActivity(i);
 
+    }
+
+    public  void BorarTxt()
+    {
 
 
     }

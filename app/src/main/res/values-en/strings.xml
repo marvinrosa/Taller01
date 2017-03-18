@@ -10,4 +10,6 @@
     <string name="segundoApellido">SECOND SURNAME</string>
     <string name="segundoNombre">SECOND NAME</string>
     <string name="sexo">SEX</string>
+    <string name="hola">Hello</string>
+    <string name="tu">YOUR</string>
 </resources>
